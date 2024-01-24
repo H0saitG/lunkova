@@ -1,0 +1,180 @@
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\carychdb.exe.config
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\carychdb.exe
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\carychdb.pdb
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.AssemblyReference.cache
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Form1.resources
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Form2.resources
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Properties.Resources.resources
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.GenerateResource.cache
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.CoreCompileInputs.cache
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.exe
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.pdb
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\MySql.Data.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Buffers.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\MySql.Data.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.CopyComplete
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\MySqlConnector.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\MySqlConnector.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Buffers.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Guna.UI2.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.UserControls.UC_Stock.resources
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.UC_Pred.resources
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Azure.Core.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Azure.Identity.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.Data.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Permissions.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Json.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.ValueTuple.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Azure.Core.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Azure.Identity.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.Data.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Permissions.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Json.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\System.ValueTuple.xml
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\OneDrive\Рабочий стол\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Add_Form.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\carychdb.exe.config
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\carychdb.exe
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\carychdb.pdb
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Azure.Core.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Azure.Identity.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Guna.UI2.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\MySql.Data.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\MySqlConnector.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Buffers.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.Data.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.AccessControl.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Permissions.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Json.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.ValueTuple.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Azure.Core.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Azure.Identity.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\MySql.Data.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\MySqlConnector.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Buffers.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Memory.Data.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.AccessControl.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Permissions.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Text.Json.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\System.ValueTuple.xml
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.AssemblyReference.cache
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Add_Form.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Form1.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Form2.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.Properties.Resources.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.UC_Pred.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.UserControls.UC_Stock.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.GenerateResource.cache
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.CoreCompileInputs.cache
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.csproj.CopyComplete
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.exe
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.pdb
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.UC_Stock_User.resources
+C:\Users\lunko\Desktop\Курсовая\carychdb\carychdb\obj\Debug\carychdb.UserForm.resources
